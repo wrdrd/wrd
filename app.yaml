@@ -1,6 +1,6 @@
 application: wrd
 version: 1
-runtime: python27
+runtime: python25
 api_version: 1
 threadsafe: yes
 
