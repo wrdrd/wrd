@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = ssh://git@github.com/wrd/wrd.github.io
